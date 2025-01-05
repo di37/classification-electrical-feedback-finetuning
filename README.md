@@ -96,7 +96,7 @@ HF_TOKEN=your_hugging_face_token
 
 6. **Model Inference**:
 
-   - Use `06_model_inference.ipynb` to test fine-tuned models on unseen data.
+   - Use `06_model_inference.ipynb` to test fine-tuned models both that are stored locally and also the models that are pushed to the hub on unseen data.
 
 ---
 
