@@ -1,4 +1,4 @@
-# Fine-Tuning BERT Models for Text Classification - Electrical Device Feedback
+# Fine-Tuning Models for Sentiment Analysis of Electrical Device Feedback
 
 ## Overview
 
